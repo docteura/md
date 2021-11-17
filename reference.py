@@ -6,3 +6,7 @@ Kappa
 Belidus
 Nelson
 Mohammad
+Joseph
+Susan
+Rose
+Mostiq
